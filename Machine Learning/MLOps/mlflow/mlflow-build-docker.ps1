@@ -1,0 +1,1 @@
+mlflow models build-docker -m 'models:/House price/Production' -n 'house-prices'
