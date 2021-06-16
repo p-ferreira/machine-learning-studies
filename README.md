@@ -48,3 +48,11 @@
             - MLP (Multi-layer perceptron)
     - MLOps
         Create a web api to use a ml model using Flask and pickle
+    - NLP
+        - MLE
+        - LaPlace
+        - NLTK
+        - Bigrams
+        - Language detection
+        - tokenizers
+    
